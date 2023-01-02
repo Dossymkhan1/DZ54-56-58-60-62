@@ -1,0 +1,15 @@
+C:\Games\C#8\DZ58\bin\Debug\net6.0\DZ58.exe
+C:\Games\C#8\DZ58\bin\Debug\net6.0\DZ58.deps.json
+C:\Games\C#8\DZ58\bin\Debug\net6.0\DZ58.runtimeconfig.json
+C:\Games\C#8\DZ58\bin\Debug\net6.0\DZ58.dll
+C:\Games\C#8\DZ58\bin\Debug\net6.0\DZ58.pdb
+C:\Games\C#8\DZ58\obj\Debug\net6.0\DZ58.csproj.AssemblyReference.cache
+C:\Games\C#8\DZ58\obj\Debug\net6.0\DZ58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\C#8\DZ58\obj\Debug\net6.0\DZ58.AssemblyInfoInputs.cache
+C:\Games\C#8\DZ58\obj\Debug\net6.0\DZ58.AssemblyInfo.cs
+C:\Games\C#8\DZ58\obj\Debug\net6.0\DZ58.csproj.CoreCompileInputs.cache
+C:\Games\C#8\DZ58\obj\Debug\net6.0\DZ58.dll
+C:\Games\C#8\DZ58\obj\Debug\net6.0\refint\DZ58.dll
+C:\Games\C#8\DZ58\obj\Debug\net6.0\DZ58.pdb
+C:\Games\C#8\DZ58\obj\Debug\net6.0\DZ58.genruntimeconfig.cache
+C:\Games\C#8\DZ58\obj\Debug\net6.0\ref\DZ58.dll
